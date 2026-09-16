@@ -14,10 +14,10 @@
 ```bash
 $ whoami
 ```
-> Results-driven Software Quality Assurance Engineer with 3.5+ years of experience engineering robust manual and automated testing strategies. Adept at designing end-to-end testing frameworks to accelerate release cycles and improve test coverage. Proven track record of isolating critical defects, optimizing QA processes, and collaborating with cross-functional teams
+> Results-driven Software Quality Assurance Engineer with 4+ years of experience engineering robust manual and automated testing strategies. Adept at designing end-to-end testing frameworks to accelerate release cycles and improve test coverage. Proven track record of isolating critical defects, optimizing QA processes, and collaborating with cross-functional teams
 
 ```
-MD. Monwar Siddiq — Software QA Engineer, 3.5+ Years Experience
+MD. Monwar Siddiq — Software QA Engineer, 4+ Years Experience
 Target   : Manual + Automated Testing | AI Driven QA | Web, API & Mobile
 Location : Dhaka, Bangladesh
 ```
@@ -106,7 +106,7 @@ Methodologies    : Agile/Scrum · SDLC/STLC · Defect Lifecycle · BDD/TDD
 | [Chaldal-Appium-Automation](https://github.com/monwarsiddiq/Chaldal-Appium-Automation) | End-to-end mobile UI automation framework | `Appium`, `Java` |
 | [Selenium TestNG Automation Framework](https://github.com/monwarsiddiq/Selenium-TestNG-Automation-Framework) | Selenium + TestNG framework for scalable web testing | `Selenium`, `TestNG`,`Java` |
 
-📌 *[View all 29 repositories →](https://github.com/monwarsiddiq?tab=repositories)*
+📌 *[View all 30 repositories →](https://github.com/monwarsiddiq?tab=repositories)*
 
 ---
 
