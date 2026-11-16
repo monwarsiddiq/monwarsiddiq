@@ -7,17 +7,17 @@
 <div align="center">
 
 # MD. MONWAR SIDDIQ
-### Software Quality Assurance Engineer
+### QA Automation Engineer | SQA
 
 </div>
 
 ```bash
 $ whoami
 ```
-> Results-driven Software Quality Assurance Engineer with 4+ years of experience engineering robust manual and automated testing strategies. Adept at designing end-to-end testing frameworks to accelerate release cycles and improve test coverage. Proven track record of isolating critical defects, optimizing QA processes, and collaborating with cross-functional teams
+> QA Automation Engineer with 4+ years of experience testing Tax, Fintech, Healthcare and E-commerce products. Currently at Orbitax, testing Tax solutions (Filing, DAC6, Workspaces). Previously worked remotely for Kinetik, New York (USA).Specialized in building Playwright Automation Frameworks, API Testing, and CI/CD. Automated 200+ tests, reduced manual testing time by 65%, and maintained 95%+ test pass rate across 50+ feature rollouts.
 
 ```
-MD. Monwar Siddiq — Software QA Engineer, 4+ Years Experience
+MD. Monwar Siddiq — QA Automation Engineer | SQA | 4+ Years
 Target   : Manual + Automated Testing | AI Driven QA | Web, API & Mobile
 Location : Dhaka, Bangladesh
 ```
